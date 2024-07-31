@@ -2,6 +2,7 @@
 
 echo -e \n~~ Questionnaire ~~\n
 
+
 QUESTION1="What's your name?"
 QUESTION2="Where are you from?"
 
