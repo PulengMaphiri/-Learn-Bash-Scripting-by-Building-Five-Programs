@@ -141,3 +141,4 @@ which bash
 ./countdown.sh
 help
 man if
+help if
