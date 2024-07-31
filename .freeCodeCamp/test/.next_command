@@ -76,3 +76,5 @@ ls --color=auto -l
 ./questionnaire.sh
 bash questionnaire.sh
 ./questionnaire.sh
+./questionnaire.sh
+./questionnaire.sh
