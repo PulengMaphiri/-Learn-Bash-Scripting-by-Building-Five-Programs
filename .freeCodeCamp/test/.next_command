@@ -172,3 +172,6 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 ./ countdown.sh arg1
 ls --color=auto
 ./countdown.sh arg1
+__vsc_prompt_cmd_original
+./countdown.sh arg1
+./countdown.sh arg2
