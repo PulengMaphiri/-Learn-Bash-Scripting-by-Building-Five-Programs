@@ -239,3 +239,4 @@ help tets
 help test
 [[ -x countdown.sh ]]
 [[ -x countdown.sh ]]
+help [[ expression ]]
