@@ -431,3 +431,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 which bash
 ./fortune.sh
 ARR=("a" "b" "c")
+echo ${ARR[1]}
