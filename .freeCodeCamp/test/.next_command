@@ -399,3 +399,5 @@ __vsc_prompt_cmd_original
 ./bingo.sh
 ./bingo.sh
 touch fortune.sh
+ls --color=auto -l
+chmod +x fortune.sh
