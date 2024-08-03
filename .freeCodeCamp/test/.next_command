@@ -432,3 +432,10 @@ which bash
 ./fortune.sh
 ARR=("a" "b" "c")
 echo ${ARR[1]}
+echo $@
+echo $@
+echo $*
+echo $@ fortune.sh
+echo ${ARR[<index>]}
+echo ${ARR[$@]}
+echo ${ARR[*]}
