@@ -290,3 +290,4 @@ help
 help while
 help for
 help do..while
+./countdown.sh 5
