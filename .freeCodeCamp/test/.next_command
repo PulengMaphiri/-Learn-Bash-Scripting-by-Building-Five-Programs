@@ -293,3 +293,5 @@ help do..while
 ./countdown.sh 5
 ./countdown.sh 3
 touch bingo.sh
+ls --color=auto -l
+chmod +x bingo.sh
