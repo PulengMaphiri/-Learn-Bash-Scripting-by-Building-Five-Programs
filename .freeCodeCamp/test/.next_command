@@ -452,3 +452,4 @@ help until
 help test
 help [[
 ./fortune.sh
+help [[ expression ]]
