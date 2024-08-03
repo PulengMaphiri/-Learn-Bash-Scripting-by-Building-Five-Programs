@@ -474,3 +474,4 @@ echo $VAR
 [[ $VAR =~ \?$ ]]
 __vsc_prompt_cmd_original
 [[ test? =~ \?$ ]]
+__vsc_prompt_cmd_original
