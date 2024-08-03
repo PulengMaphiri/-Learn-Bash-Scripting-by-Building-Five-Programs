@@ -439,3 +439,5 @@ echo $@ fortune.sh
 echo ${ARR[<index>]}
 echo ${ARR[$@]}
 echo ${ARR[*]}
+echo ${ARR[@]}
+declare -p ARR
