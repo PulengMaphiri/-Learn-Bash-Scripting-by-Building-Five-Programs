@@ -441,3 +441,5 @@ echo ${ARR[$@]}
 echo ${ARR[*]}
 echo ${ARR[@]}
 declare -p ARR
+./
+./fortune.sh
