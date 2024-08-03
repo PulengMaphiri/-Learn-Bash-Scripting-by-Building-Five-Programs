@@ -453,3 +453,4 @@ help test
 help [[
 ./fortune.sh
 help [[ expression ]]
+[[ hello == hello ]]
