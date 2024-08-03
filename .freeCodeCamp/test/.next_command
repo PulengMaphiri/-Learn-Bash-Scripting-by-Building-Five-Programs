@@ -297,3 +297,4 @@ ls --color=auto -l
 chmod +x bingo.sh
 which bash
 ./bingo.sh
+printenv
