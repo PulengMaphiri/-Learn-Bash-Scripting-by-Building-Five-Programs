@@ -647,3 +647,4 @@ ls --color=auto -l
 chmod +x five.sh
 which bash
 ./five.sh
+clear
